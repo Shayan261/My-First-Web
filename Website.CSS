@@ -1,0 +1,90 @@
+/* table.table1{
+   background-color: deeppink;
+    color: rgb(0, 0, 0);
+    border: 3cm;
+    border-style: double;
+}
+#Shayan ,td,tr{
+    border: 1px solid black;
+}
+tr.Shan{
+    background-color: rgb(255, 183, 0);
+}
+#Shayan{
+    background-color: rgb(170, 140, 65);
+} */
+ h1{
+    text-align: center;
+    color: rgb(223, 190, 5);
+ }
+ 
+ img{
+   margin-left: auto;
+margin-right: auto; 
+display: block;
+}
+h2{
+    text-align: center;
+  font-weight: bold;
+  background-color: rgb(0, 0, 0);
+ color: rgb(255, 255, 255);
+}
+h2:active{
+    font-size: 40px;
+}
+div{
+background-color: darkgoldenrod;
+}
+span{
+    font-size: xx-large;
+    font-weight: bold;
+}
+li{
+    font-weight: bold;
+}
+body{background-color: rgb(43, 42, 42);}
+.shayan{
+    padding-right: 650px;
+}   
+.shan{
+    text-align: center;
+    color: rgb(223, 231, 231);
+}
+.shan:hover{
+    font-size: x-large;
+   text-shadow: 10px,13px,10px white;
+}
+.fell:hover{
+    font-size: xx-large;
+}
+.all{
+    padding-right: 140px;
+    padding-bottom: 30px;
+    padding-left: 140px;
+    padding-top: 20px;
+    font-size: xx-large;
+    text-align: center;
+    background-color: black;
+    border: 1px solid darkgray;
+}
+a{text-decoration: none;
+    color: azure;
+}
+a:hover{
+    font-size:60px;
+    color: darkgreen;
+}
+a:visited{
+    color: blue;
+}
+button.li{
+    background-color: darkgoldenrod;
+    color: black;
+text-align: center;    
+}
+#About{
+    font-family: serif;
+font-size: x-large; 
+    text-align: justify;
+    text-shadow: 10px,20px,18px blue;
+}
